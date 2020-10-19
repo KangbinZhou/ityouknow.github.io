@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: KangbinZhou/zkb_blog.github.io
 github_url: https://github.com/KangbinZhou
-url: http://www.zkb_blog.com
-enforce_ssl: ityouknow.com
+url: http://www.zkb.com
+#enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
